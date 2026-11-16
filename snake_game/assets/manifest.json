@@ -1,0 +1,168 @@
+{
+  "format": "PNG RGBA",
+  "usage": "Textless assets are ready for game-engine UI; source-crops preserve labelled artwork from supplied references.",
+  "assets": {
+    "buttons": [
+      {
+        "file": "buttons/button-blue.png",
+        "width": 384,
+        "height": 128
+      },
+      {
+        "file": "buttons/button-green.png",
+        "width": 384,
+        "height": 128
+      },
+      {
+        "file": "buttons/icon-button-blue.png",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "file": "buttons/icon-button-gold.png",
+        "width": 128,
+        "height": 128
+      }
+    ],
+    "panels": [
+      {
+        "file": "panels/hud-panel.png",
+        "width": 420,
+        "height": 104
+      },
+      {
+        "file": "panels/mode-card-blue.png",
+        "width": 600,
+        "height": 720
+      },
+      {
+        "file": "panels/mode-card-green.png",
+        "width": 600,
+        "height": 720
+      },
+      {
+        "file": "panels/progress-fill.png",
+        "width": 440,
+        "height": 46
+      },
+      {
+        "file": "panels/progress-track.png",
+        "width": 560,
+        "height": 92
+      }
+    ],
+    "controls": [
+      {
+        "file": "controls/action-button.png",
+        "width": 176,
+        "height": 152
+      },
+      {
+        "file": "controls/joystick-base.png",
+        "width": 360,
+        "height": 360
+      },
+      {
+        "file": "controls/joystick-knob.png",
+        "width": 170,
+        "height": 170
+      }
+    ],
+    "icons": [
+      {
+        "file": "icons/back.png",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "file": "icons/pause.png",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "file": "icons/question.png",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "file": "icons/settings.png",
+        "width": 128,
+        "height": 128
+      }
+    ],
+    "source-crops": [
+      {
+        "file": "source-crops/action-button-composite.png",
+        "width": 90,
+        "height": 83
+      },
+      {
+        "file": "source-crops/classic-mode-card-labelled.png",
+        "width": 312,
+        "height": 361
+      },
+      {
+        "file": "source-crops/hero-snake.png",
+        "width": 317,
+        "height": 277
+      },
+      {
+        "file": "source-crops/hud-profile-and-coins.png",
+        "width": 231,
+        "height": 91
+      },
+      {
+        "file": "source-crops/hud-progress.png",
+        "width": 268,
+        "height": 60
+      },
+      {
+        "file": "source-crops/joystick-composite.png",
+        "width": 178,
+        "height": 185
+      },
+      {
+        "file": "source-crops/knowledge-mode-card-labelled.png",
+        "width": 311,
+        "height": 363
+      },
+      {
+        "file": "source-crops/logo-bilge-yilan.png",
+        "width": 244,
+        "height": 150
+      },
+      {
+        "file": "source-crops/play-button-labelled.png",
+        "width": 220,
+        "height": 90
+      },
+      {
+        "file": "source-crops/profile-and-coins.png",
+        "width": 214,
+        "height": 91
+      },
+      {
+        "file": "source-crops/screen-title-mode-select.png",
+        "width": 426,
+        "height": 65
+      }
+    ],
+    "reference": [
+      {
+        "file": "reference/game-screen.png",
+        "width": 1027,
+        "height": 596
+      },
+      {
+        "file": "reference/home-screen.png",
+        "width": 963,
+        "height": 532
+      },
+      {
+        "file": "reference/mode-screen.png",
+        "width": 815,
+        "height": 527
+      }
+    ]
+  }
+}

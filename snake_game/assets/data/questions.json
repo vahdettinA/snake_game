@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "question": "Türkiye'nin başkenti neresidir?",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Bursa"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 2,
+    "question": "Dünyanın en uzun nehri hangisidir?",
+    "options": [
+      "Amazon",
+      "Nil",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 3,
+    "question": "Dünyanın en yüksek dağı hangisidir?",
+    "options": [
+      "K2",
+      "Everest",
+      "Kilimanjaro",
+      "Alpler"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 4,
+    "question": "Yüzölçümü bakımından dünyanın en büyük ülkesi hangisidir?",
+    "options": [
+      "Kanada",
+      "Çin",
+      "Rusya",
+      "ABD"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 5,
+    "question": "Japonya'nın başkenti neresidir?",
+    "options": [
+      "Pekin",
+      "Seul",
+      "Tokyo",
+      "Kyoto"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 6,
+    "question": "Türkiye'nin en büyük gölü hangisidir?",
+    "options": [
+      "Tuz Gölü",
+      "Beyşehir Gölü",
+      "Van Gölü",
+      "İznik Gölü"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 7,
+    "question": "Afrika kıtasının en yüksek zirvesi neresidir?",
+    "options": [
+      "Atlas Dağları",
+      "Kilimanjaro",
+      "Elbruz",
+      "Mont Blanc"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 8,
+    "question": "Ekvator çizgisinin geçtiği kıtalar hangileridir?",
+    "options": [
+      "Avrupa ve Asya",
+      "Güney Amerika ve Afrika",
+      "Avustralya ve Antarktika",
+      "Kuzey Amerika ve Avrupa"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 9,
+    "question": "Fransa'nın başkenti neresidir?",
+    "options": [
+      "Berlin",
+      "Roma",
+      "Madrid",
+      "Paris"
+    ],
+    "correctIndex": 3,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 10,
+    "question": "Kuzey Kutup Dairesi'ne en yakın başkent hangisidir?",
+    "options": [
+      "Oslo",
+      "Reykjavik",
+      "Helsinki",
+      "Stockholm"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 11,
+    "question": "Avustralya'nın başkenti neresidir?",
+    "options": [
+      "Sidney",
+      "Melbourne",
+      "Kanberra",
+      "Brisbane"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 12,
+    "question": "Dünyanın en derin gölü hangisidir?",
+    "options": [
+      "Baykal Gölü",
+      "Hazar Gölü",
+      "Viktorya Gölü",
+      "Superior Gölü"
+    ],
+    "correctIndex": 0,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 13,
+    "question": "İtalya'nın başkenti neresidir?",
+    "options": [
+      "Venedik",
+      "Floransa",
+      "Milano",
+      "Roma"
+    ],
+    "correctIndex": 3,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 14,
+    "question": "Türkiye hangi iki kıta üzerinde yer alır?",
+    "options": [
+      "Asya ve Afrika",
+      "Asya ve Avrupa",
+      "Avrupa ve Afrika",
+      "Asya ve Amerika"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 15,
+    "question": "Brezilya'nın başkenti neresidir?",
+    "options": [
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Brasilia",
+      "Salvador"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 16,
+    "question": "Boğaziçi hangi iki denizi birbirine bağlar?",
+    "options": [
+      "Karadeniz - Marmara",
+      "Akdeniz - Ege",
+      "Marmara - Ege",
+      "Kızıldeniz - Akdeniz"
+    ],
+    "correctIndex": 0,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 17,
+    "question": "Kanada'nın başkenti neresidir?",
+    "options": [
+      "Toronto",
+      "Montreal",
+      "Vancouver",
+      "Ottawa"
+    ],
+    "correctIndex": 3,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 18,
+    "question": "Dünyanın en büyük adası hangisidir?",
+    "options": [
+      "Madagaskar",
+      "Grönland",
+      "Borneo",
+      "İzlanda"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 19,
+    "question": "Sahra Çölü hangi kıtadadır?",
+    "options": [
+      "Asya",
+      "Afrika",
+      "Güney Amerika",
+      "Avustralya"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 20,
+    "question": "Almanya'nın başkenti neresidir?",
+    "options": [
+      "Münih",
+      "Frankfurt",
+      "Berlin",
+      "Hamburg"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 21,
+    "question": "Türkiye'nin en uzun nehri (ülke sınırları içinde doğup denize dökülen) hangisidir?",
+    "options": [
+      "Fırat",
+      "Kızılırmak",
+      "Yeşilırmak",
+      "Sakarya"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 22,
+    "question": "Piramitleriyle ünlü ülke hangisidir?",
+    "options": [
+      "Yunanistan",
+      "Mısır",
+      "İran",
+      "Meksika"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 23,
+    "question": "Amazon Yağmur Ormanları çoğunlukla hangi ülkededir?",
+    "options": [
+      "Arjantin",
+      "Brezilya",
+      "Kolombiya",
+      "Peru"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 24,
+    "question": "İspanya'nın başkenti neresidir?",
+    "options": [
+      "Barselona",
+      "Madrid",
+      "Sevilla",
+      "Valensiya"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 25,
+    "question": "Karadeniz'i Akdeniz'e bağlayan boğazlar hangi ülkededir?",
+    "options": [
+      "Yunanistan",
+      "İtalya",
+      "Türkiye",
+      "Bulgaristan"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 26,
+    "question": "Güneş Sistemindeki en büyük gezegen hangisidir?",
+    "options": [
+      "Mars",
+      "Satürn",
+      "Jüpiter",
+      "Venüs"
+    ],
+    "correctIndex": 2,
+    "category": "Bilim"
+  },
+  {
+    "id": 27,
+    "question": "Suyun kimyasal formülü nedir?",
+    "options": [
+      "CO2",
+      "H2O",
+      "NaCl",
+      "O2"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim"
+  },
+  {
+    "id": 28,
+    "question": "İnsan vücudundaki en büyük organ hangisidir?",
+    "options": [
+      "Karaciğer",
+      "Kalp",
+      "Deri",
+      "Akciğer"
+    ],
+    "correctIndex": 2,
+    "category": "Bilim"
+  },
+  {
+    "id": 29,
+    "question": "Yerçekimi kanununu kim keşfetmiştir?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim"
+  },
+  {
+    "id": 30,
+    "question": "Işık saniyede yaklaşık kaç kilometre yol alır?",
+    "options": [
+      "150.000 km",
+      "300.000 km",
+      "500.000 km",
+      "1.000.000 km"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim"
+  },
+  {
+    "id": 31,
+    "question": "Bitkilerin besin üretmek için güneş ışığını kullanmasına ne denir?",
+    "options": [
+      "Solunum",
+      "Fermantasyon",
+      "Fotosentez",
+      "Terleme"
+    ],
+    "correctIndex": 2,
+    "category": "Bilim"
+  },
+  {
+    "id": 32,
+    "question": "Dünyaya en yakın yıldız hangisidir?",
+    "options": [
+      "Kutup Yıldızı",
+      "Sirius",
+      "Güneş",
+      "Alfa Centauri"
+    ],
+    "correctIndex": 2,
+    "category": "Bilim"
+  },
+  {
+    "id": 33,
+    "question": "Kırmızı Gezegen olarak bilinen gök cismi hangisidir?",
+    "options": [
+      "Venüs",
+      "Mars",
+      "Merkür",
+      "Jüpiter"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim"
+  },
+  {
+    "id": 34,
+    "question": "İnsan vücudunda kaç adet kemik bulunur (yetişkinlerde)?",
+    "options": [
+      "156",
+      "206",
+      "256",
+      "306"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim"
+  },
+  {
+    "id": 35,
+    "question": "Elektrik ampulünü icat eden kimdir?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "James Watt"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 36,
+    "question": "Havadaki en yüksek oranda bulunan gaz hangisidir?",
+    "options": [
+      "Oksijen",
+      "Karbondioksit",
+      "Azot",
+      "Hidrojen"
+    ],
+    "correctIndex": 2,
+    "category": "Bilim"
+  },
+  {
+    "id": 37,
+    "question": "DNA'nın açılımı nedir?",
+    "options": [
+      "Deoksiribonükleik Asit",
+      "Dihidronükleik Asit",
+      "Dekoriboz Asidi",
+      "Dinamik Asit"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 38,
+    "question": "Telefonun mucidi kimdir?",
+    "options": [
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Samuel Morse",
+      "Alan Turing"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 39,
+    "question": "Kutup ayıları hangi bölgede yaşar?",
+    "options": [
+      "Güney Kutbu",
+      "Kuzey Kutbu",
+      "Avustralya",
+      "Patagonya"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 40,
+    "question": "Dünyanın en hızlı kara hayvanı hangisidir?",
+    "options": [
+      "Aslan",
+      "Çita",
+      "Ceylan",
+      "Tazı"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 41,
+    "question": "Arıların ürettiği tatlı besin maddesi nedir?",
+    "options": [
+      "Reçel",
+      "Bal",
+      "Pekmez",
+      "Şurup"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 42,
+    "question": "Panda ayılarının ana besini nedir?",
+    "options": [
+      "Okaliptüs",
+      "Bambu",
+      "Elma",
+      "Balık"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 43,
+    "question": "Bir ahtapotun kaç kalbi vardır?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "category": "Doğa"
+  },
+  {
+    "id": 44,
+    "question": "Dünyadaki en büyük memeli hayvan hangisidir?",
+    "options": [
+      "Fil",
+      "Mavi Balina",
+      "Zürafa",
+      "Köpekbalığı"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 45,
+    "question": "Kuşların uçmasını sağlayan en önemli yapı hangisidir?",
+    "options": [
+      "Tüyler ve hafif kemikler",
+      "Gaga",
+      "Pençeler",
+      "Gözler"
+    ],
+    "correctIndex": 0,
+    "category": "Doğa"
+  },
+  {
+    "id": 46,
+    "question": "Hangi hayvan 'çöl gemisi' olarak bilinir?",
+    "options": [
+      "At",
+      "Deve",
+      "Eşek",
+      "Katır"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 47,
+    "question": "Yarasalar çevrelerini hangi duyu yardımıyla algılar (ekolokasyon)?",
+    "options": [
+      "Koku",
+      "Ses dalgaları",
+      "Tad alma",
+      "Manyetik alan"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 48,
+    "question": "Gözleri birbirinden bağımsız hareket edebilen sürüngen hangisidir?",
+    "options": [
+      "Kertenkele",
+      "Bukalemun",
+      "Timsah",
+      "İguana"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 49,
+    "question": "Hangi gezegenin halkaları en belirgindir?",
+    "options": [
+      "Satürn",
+      "Uranüs",
+      "Mars",
+      "Neptün"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 50,
+    "question": "Periyodik tablodaki ilk element hangisidir?",
+    "options": [
+      "Helyum",
+      "Hidrojen",
+      "Lityum",
+      "Oksijen"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim"
+  },
+  {
+    "id": 51,
+    "question": "Türkiye Cumhuriyeti hangi yılda ilan edilmiştir?",
+    "options": [
+      "1920",
+      "1923",
+      "1919",
+      "1922"
+    ],
+    "correctIndex": 1,
+    "category": "Tarih"
+  },
+  {
+    "id": 52,
+    "question": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+    "options": [
+      "Mustafa Kemal Atatürk",
+      "İsmet İnönü",
+      "Fevzi Çakmak",
+      "Kazım Karabekir"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 53,
+    "question": "İstanbul hangi yılda fethedilmiştir?",
+    "options": [
+      "1071",
+      "1299",
+      "1453",
+      "1517"
+    ],
+    "correctIndex": 2,
+    "category": "Tarih"
+  },
+  {
+    "id": 54,
+    "question": "İstanbul'u fetheden Osmanlı padişahı kimdir?",
+    "options": [
+      "Fatih Sultan Mehmet",
+      "Yavuz Sultan Selim",
+      "Kanuni Sultan Süleyman",
+      "Yıldırım Bayezid"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 55,
+    "question": "İlk Çağ'da parayı icat eden uygarlık hangisidir?",
+    "options": [
+      "Sümerler",
+      "Lidyalılar",
+      "Hititler",
+      "Babilliler"
+    ],
+    "correctIndex": 1,
+    "category": "Tarih"
+  },
+  {
+    "id": 56,
+    "question": "Yazıyı bulan uygarlık hangisidir?",
+    "options": [
+      "Mısırlılar",
+      "Sümerler",
+      "Fenikeliler",
+      "Yunanlar"
+    ],
+    "correctIndex": 1,
+    "category": "Tarih"
+  },
+  {
+    "id": 57,
+    "question": "Malazgirt Meydan Muharebesi hangi yılda gerçekleşmiştir?",
+    "options": [
+      "1071",
+      "1453",
+      "1176",
+      "1299"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 58,
+    "question": "Pusulayı icat eden millet hangisidir?",
+    "options": [
+      "Yunanlar",
+      "Çinliler",
+      "Romalılar",
+      "Mısırlılar"
+    ],
+    "correctIndex": 1,
+    "category": "Tarih"
+  },
+  {
+    "id": 59,
+    "question": "Tarihte ilk yazılı antlaşma hangisidir?",
+    "options": [
+      "Kadeş Antlaşması",
+      "Versay Antlaşması",
+      "Lozan Antlaşması",
+      "Mondros Antlaşması"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 60,
+    "question": "Cumhuriyetimizin 100. yılı hangi yılda kutlanmıştır?",
+    "options": [
+      "2020",
+      "2021",
+      "2022",
+      "2023"
+    ],
+    "correctIndex": 3,
+    "category": "Tarih"
+  },
+  {
+    "id": 61,
+    "question": "Kurtuluş Savaşı'nın başlangıcı kabul edilen olay nedir?",
+    "options": [
+      "Atatürk'ün Samsun'a çıkışı",
+      "Sivas Kongresi",
+      "Erzurum Kongresi",
+      "TBMM'nin açılışı"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 62,
+    "question": "TBMM hangi tarihte açılmıştır?",
+    "options": [
+      "23 Nisan 1920",
+      "29 Ekim 1923",
+      "19 Mayıs 1919",
+      "30 Ağustos 1922"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 63,
+    "question": "Zafer Bayramı her yıl hangi gün kutlanır?",
+    "options": [
+      "19 Mayıs",
+      "23 Nisan",
+      "30 Ağustos",
+      "29 Ekim"
+    ],
+    "correctIndex": 2,
+    "category": "Tarih"
+  },
+  {
+    "id": 64,
+    "question": "Mimar Sinan'ın 'Ustalık eserim' dediği cami hangisidir?",
+    "options": [
+      "Süleymaniye",
+      "Selimiye",
+      "Şehzade",
+      "Sultanahmet"
+    ],
+    "correctIndex": 1,
+    "category": "Tarih"
+  },
+  {
+    "id": 65,
+    "question": "İlk matbaayı geliştiren Alman mucit kimdir?",
+    "options": [
+      "Gutenberg",
+      "Newton",
+      "Leibniz",
+      "Galileo"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 66,
+    "question": "Ay'a ilk ayak basan insan kimdir?",
+    "options": [
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Michael Collins"
+    ],
+    "correctIndex": 1,
+    "category": "Tarih"
+  },
+  {
+    "id": 67,
+    "question": "Uzaya çıkan ilk insan kimdir?",
+    "options": [
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn",
+      "Alan Shepard"
+    ],
+    "correctIndex": 1,
+    "category": "Tarih"
+  },
+  {
+    "id": 68,
+    "question": "İstiklal Marşı'mızın şairi kimdir?",
+    "options": [
+      "Mehmet Akif Ersoy",
+      "Namık Kemal",
+      "Ziya Gökalp",
+      "Yahya Kemal Beyatlı"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat"
+  },
+  {
+    "id": 69,
+    "question": "Mona Lisa tablosunu kim yapmıştır?",
+    "options": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Vincent van Gogh"
+    ],
+    "correctIndex": 1,
+    "category": "Sanat"
+  },
+  {
+    "id": 70,
+    "question": "Yıldızlı Gece tablosunun ressamı kimdir?",
+    "options": [
+      "Salvador Dali",
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Rembrandt"
+    ],
+    "correctIndex": 1,
+    "category": "Sanat"
+  },
+  {
+    "id": 71,
+    "question": "Piyano kaç beyaz ve siyah tuştan oluşur?",
+    "options": [
+      "66",
+      "77",
+      "88",
+      "99"
+    ],
+    "correctIndex": 2,
+    "category": "Sanat"
+  },
+  {
+    "id": 72,
+    "question": "Futbolda bir takım sahada kaç oyuncu ile mücadele eder?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctIndex": 2,
+    "category": "Spor"
+  },
+  {
+    "id": 73,
+    "question": "Basketbolda normal bir saha içi basket kaç puan değerindedir (çizgi içi)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "category": "Spor"
+  },
+  {
+    "id": 74,
+    "question": "Olimpiyat halkalarında kaç farklı renk halka vardır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2,
+    "category": "Spor"
+  },
+  {
+    "id": 75,
+    "question": "Voleybolda bir takım sahada kaç kişiyle oynar?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 1,
+    "category": "Spor"
+  },
+  {
+    "id": 76,
+    "question": "Teniste 40-40 eşitlik durumuna ne ad verilir?",
+    "options": [
+      "Deuce (Düş)",
+      "Tie-break",
+      "Ace",
+      "Fault"
+    ],
+    "correctIndex": 0,
+    "category": "Spor"
+  },
+  {
+    "id": 77,
+    "question": "Satranç tahtasında toplam kaç kare bulunur?",
+    "options": [
+      "48",
+      "64",
+      "72",
+      "81"
+    ],
+    "correctIndex": 1,
+    "category": "Zeka"
+  },
+  {
+    "id": 78,
+    "question": "Tavla tahtasında toplam kaç pul vardır?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "32"
+    ],
+    "correctIndex": 2,
+    "category": "Zeka"
+  },
+  {
+    "id": 79,
+    "question": "Rubik Küp'ün bir yüzünde kaç küçük kare vardır?",
+    "options": [
+      "4",
+      "9",
+      "16",
+      "25"
+    ],
+    "correctIndex": 1,
+    "category": "Zeka"
+  },
+  {
+    "id": 80,
+    "question": "7 x 8 kaçtır?",
+    "options": [
+      "54",
+      "56",
+      "58",
+      "62"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik"
+  },
+  {
+    "id": 81,
+    "question": "12 x 12 kaçtır?",
+    "options": [
+      "124",
+      "134",
+      "144",
+      "154"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 82,
+    "question": "9 x 6 kaçtır?",
+    "options": [
+      "52",
+      "54",
+      "56",
+      "58"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik"
+  },
+  {
+    "id": 83,
+    "question": "15 x 4 kaçtır?",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 84,
+    "question": "81 sayısının karekökü kaçtır?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 85,
+    "question": "100'ün yarısının 20 fazlası kaçtır?",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik"
+  },
+  {
+    "id": 86,
+    "question": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+    "options": [
+      "90",
+      "180",
+      "270",
+      "360"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik"
+  },
+  {
+    "id": 87,
+    "question": "Bir karenin kaç kenarı vardır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik"
+  },
+  {
+    "id": 88,
+    "question": "Bir dikdörtgenin iç açıları toplamı kaç derecedir?",
+    "options": [
+      "180",
+      "240",
+      "360",
+      "400"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 89,
+    "question": "1 saat kaç dakikadır?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "100"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik"
+  },
+  {
+    "id": 90,
+    "question": "1 gün kaç saattir?",
+    "options": [
+      "12",
+      "20",
+      "24",
+      "48"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 91,
+    "question": "1 yılda kaç hafta vardır?",
+    "options": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 92,
+    "question": "1 kilometrede kaç metre vardır?",
+    "options": [
+      "100",
+      "500",
+      "1000",
+      "10000"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 93,
+    "question": "1 kilogram kaç gramdır?",
+    "options": [
+      "100",
+      "500",
+      "1000",
+      "2000"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 94,
+    "question": "1 litre kaç mililitredir?",
+    "options": [
+      "100",
+      "500",
+      "1000",
+      "1500"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 95,
+    "question": "En küçük asal sayı hangisidir?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik"
+  },
+  {
+    "id": 96,
+    "question": "Hangi sayı ne pozitif ne de negatiftir?",
+    "options": [
+      "-1",
+      "0",
+      "1",
+      "10"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik"
+  },
+  {
+    "id": 97,
+    "question": "125 sayısının küpkökü kaçtır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 98,
+    "question": "4'ün küpü (4 üzeri 3) kaçtır?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik"
+  },
+  {
+    "id": 99,
+    "question": "Yarıçapı 5 cm olan çemberin çapı kaç cm'dir?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik"
+  },
+  {
+    "id": 100,
+    "question": "Mısır ülkesinin başkenti neresidir?",
+    "options": [
+      "İskenderiye",
+      "Kahire",
+      "Giza",
+      "Luksor"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 101,
+    "question": "İngiltere ülkesinin başkenti neresidir?",
+    "options": [
+      "Manchester",
+      "Liverpool",
+      "Londra",
+      "Birmingham"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 102,
+    "question": "Yunanistan ülkesinin başkenti neresidir?",
+    "options": [
+      "Selanik",
+      "Atina",
+      "Patras",
+      "Girit"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 103,
+    "question": "Rusya ülkesinin başkenti neresidir?",
+    "options": [
+      "St. Petersburg",
+      "Kazan",
+      "Moskova",
+      "Soçi"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 104,
+    "question": "Hollanda ülkesinin başkenti neresidir?",
+    "options": [
+      "Rotterdam",
+      "Lahey",
+      "Amsterdam",
+      "Utrecht"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 105,
+    "question": "İsviçre ülkesinin başkenti neresidir?",
+    "options": [
+      "Zürih",
+      "Cenevre",
+      "Bern",
+      "Basel"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 106,
+    "question": "Avusturya ülkesinin başkenti neresidir?",
+    "options": [
+      "Salzburg",
+      "Graz",
+      "Viyana",
+      "İnnsbruck"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 107,
+    "question": "Portekiz ülkesinin başkenti neresidir?",
+    "options": [
+      "Porto",
+      "Lizbon",
+      "Braga",
+      "Faro"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 108,
+    "question": "İsveç ülkesinin başkenti neresidir?",
+    "options": [
+      "Göteborg",
+      "Malmö",
+      "Stockholm",
+      "Uppsala"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 109,
+    "question": "Norveç ülkesinin başkenti neresidir?",
+    "options": [
+      "Bergen",
+      "Trondheim",
+      "Oslo",
+      "Stavanger"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 110,
+    "question": "Finlandiya ülkesinin başkenti neresidir?",
+    "options": [
+      "Espoo",
+      "Tampere",
+      "Helsinki",
+      "Oulu"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 111,
+    "question": "Danimarka ülkesinin başkenti neresidir?",
+    "options": [
+      "Aarhus",
+      "Odense",
+      "Kopenhag",
+      "Aalborg"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 112,
+    "question": "Belçika ülkesinin başkenti neresidir?",
+    "options": [
+      "Antwerp",
+      "Gent",
+      "Brüksel",
+      "Brugge"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 113,
+    "question": "İrlanda ülkesinin başkenti neresidir?",
+    "options": [
+      "Cork",
+      "Galway",
+      "Dublin",
+      "Limerick"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 114,
+    "question": "Çin ülkesinin başkenti neresidir?",
+    "options": [
+      "Şanghay",
+      "Hong Kong",
+      "Pekin",
+      "Guangzhou"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 115,
+    "question": "Güney Kore ülkesinin başkenti neresidir?",
+    "options": [
+      "Busan",
+      "Incheon",
+      "Seul",
+      "Daegu"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 116,
+    "question": "Hindistan ülkesinin başkenti neresidir?",
+    "options": [
+      "Mumbai",
+      "Kalküta",
+      "Yeni Delhi",
+      "Bangalore"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 117,
+    "question": "Pakistan ülkesinin başkenti neresidir?",
+    "options": [
+      "Karaçi",
+      "Lahor",
+      "İslamabad",
+      "Peşaver"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 118,
+    "question": "Azerbaycan ülkesinin başkenti neresidir?",
+    "options": [
+      "Gence",
+      "Sumgayıt",
+      "Bakü",
+      "Şeki"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 119,
+    "question": "Kazakistan ülkesinin başkenti neresidir?",
+    "options": [
+      "Almatı",
+      "Astana",
+      "Çimkent",
+      "Aktöbe"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 120,
+    "question": "Özbekistan ülkesinin başkenti neresidir?",
+    "options": [
+      "Semerkant",
+      "Buhara",
+      "Taşkent",
+      "Hiva"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 121,
+    "question": "Türkmenistan ülkesinin başkenti neresidir?",
+    "options": [
+      "Türkmenbaşı",
+      "Mary",
+      "Aşkabat",
+      "Daşoğuz"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 122,
+    "question": "Kırgızistan ülkesinin başkenti neresidir?",
+    "options": [
+      "Oş",
+      "Bişkek",
+      "Celal-Abad",
+      "Karakol"
+    ],
+    "correctIndex": 1,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 123,
+    "question": "Arjantin ülkesinin başkenti neresidir?",
+    "options": [
+      "Cordoba",
+      "Rosario",
+      "Buenos Aires",
+      "Mendoza"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 124,
+    "question": "Meksika ülkesinin başkenti neresidir?",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Mexico City",
+      "Cancun"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 125,
+    "question": "Şili ülkesinin başkenti neresidir?",
+    "options": [
+      "Valparaiso",
+      "Concepcion",
+      "Santiago",
+      "Antofagasta"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 126,
+    "question": "Kolombiya ülkesinin başkenti neresidir?",
+    "options": [
+      "Medellin",
+      "Cali",
+      "Bogota",
+      "Cartagena"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 127,
+    "question": "Güney Afrika ülkesinin başkenti neresidir?",
+    "options": [
+      "Cape Town",
+      "Johannesburg",
+      "Durban",
+      "Pretoria"
+    ],
+    "correctIndex": 3,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 128,
+    "question": "Fas ülkesinin başkenti neresidir?",
+    "options": [
+      "Kazablanka",
+      "Marakeş",
+      "Rabat",
+      "Fes"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 129,
+    "question": "Tunus ülkesinin başkenti neresidir?",
+    "options": [
+      "Susa",
+      "Safakes",
+      "Tunus",
+      "Bizerte"
+    ],
+    "correctIndex": 2,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 130,
+    "question": "Anıtkabir hangi ilimizdedir?",
+    "options": [
+      "İstanbul",
+      "Ankara",
+      "İzmir",
+      "Konya"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 131,
+    "question": "Peri Bacaları hangi bölgemizde/ilimizdedir?",
+    "options": [
+      "Nevşehir",
+      "Konya",
+      "Kayseri",
+      "Aksaray"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 132,
+    "question": "Pamukkale travertenleri hangi ilimizdedir?",
+    "options": [
+      "Denizli",
+      "Aydın",
+      "Muğla",
+      "Antalya"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 133,
+    "question": "Sümela Manastırı hangi ilimizdedir?",
+    "options": [
+      "Rize",
+      "Trabzon",
+      "Artvin",
+      "Giresun"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 134,
+    "question": "Nemrut Dağı heykelleri hangi ilimizdedir?",
+    "options": [
+      "Malatya",
+      "Şanlıurfa",
+      "Adıyaman",
+      "Diyarbakır"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 135,
+    "question": "Göbeklitepe hangi ilimizdedir?",
+    "options": [
+      "Gaziantep",
+      "Şanlıurfa",
+      "Mardin",
+      "Batman"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 136,
+    "question": "Aspendos Antik Tiyatrosu hangi ilimizdedir?",
+    "options": [
+      "Mersin",
+      "Antalya",
+      "Muğla",
+      "İzmir"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 137,
+    "question": "Efes Antik Kenti hangi ilimizdedir?",
+    "options": [
+      "Aydın",
+      "İzmir",
+      "Manisa",
+      "Çanakkale"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 138,
+    "question": "Truva Antik Kenti hangi ilimizdedir?",
+    "options": [
+      "Balıkesir",
+      "Çanakkale",
+      "Bursa",
+      "Tekirdağ"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 139,
+    "question": "Kayısı hangi ilimizle özdeşleşmiştir?",
+    "options": [
+      "Malatya",
+      "Elazığ",
+      "Kayseri",
+      "Kahramanmaraş"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 140,
+    "question": "Dondurması ile ünlü şehrimiz hangisidir?",
+    "options": [
+      "Adana",
+      "Gaziantep",
+      "Kahramanmaraş",
+      "Hatay"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 141,
+    "question": "Baklavası tescilli olan şehrimiz hangisidir?",
+    "options": [
+      "Gaziantep",
+      "Şanlıurfa",
+      "Diyarbakır",
+      "Mardin"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 142,
+    "question": "Çay üretiminde lider olan ilimiz hangisidir?",
+    "options": [
+      "Trabzon",
+      "Rize",
+      "Artvin",
+      "Ordu"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 143,
+    "question": "Fındık üretiminde dünya lideri olan ülkemizdeki Karadeniz ili hangisidir?",
+    "options": [
+      "Giresun",
+      "Ordu",
+      "Samsun",
+      "Rize"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 144,
+    "question": "Mevlana Türbesi hangi ilimizdedir?",
+    "options": [
+      "Konya",
+      "Karaman",
+      "Niğde",
+      "Aksaray"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 145,
+    "question": "Palandöken kayak merkezi hangi ilimizdedir?",
+    "options": [
+      "Kars",
+      "Erzurum",
+      "Erzincan",
+      "Ağrı"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 146,
+    "question": "Uludağ kayak merkezi hangi ilimizdedir?",
+    "options": [
+      "Bursa",
+      "Bolu",
+      "Kocaeli",
+      "Yalova"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 147,
+    "question": "Abant Gölü hangi ilimizdedir?",
+    "options": [
+      "Düzce",
+      "Bolu",
+      "Karabük",
+      "Zonguldak"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 148,
+    "question": "İshak Paşa Sarayı hangi ilimizdedir?",
+    "options": [
+      "Van",
+      "Ağrı",
+      "Kars",
+      "Iğdır"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 149,
+    "question": "Ani Harabeleri hangi ilimizdedir?",
+    "options": [
+      "Kars",
+      "Ardahan",
+      "Erzurum",
+      "Iğdır"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 150,
+    "question": "İnternetin atası sayılan ağın adı nedir?",
+    "options": [
+      "ARPANET",
+      "ETHERNET",
+      "INTRANET",
+      "USENET"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 151,
+    "question": "İlk programlanabilir bilgisayar olarak kabul edilen sistem hangisidir?",
+    "options": [
+      "ENIAC",
+      "IBM 360",
+      "Apple I",
+      "Commodore 64"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 152,
+    "question": "Bluetooth teknolojisi adını nereden almıştır?",
+    "options": [
+      "Bir Viking Kralı",
+      "Mavi bir diş fırçası",
+      "Bir gök cismi",
+      "Bir deniz feneri"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 153,
+    "question": "World Wide Web'in (WWW) mucidi kimdir?",
+    "options": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Tim Berners-Lee",
+      "Mark Zuckerberg"
+    ],
+    "correctIndex": 2,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 154,
+    "question": "Linux işletim sisteminin çekirdeğini kim geliştirmiştir?",
+    "options": [
+      "Linus Torvalds",
+      "Richard Stallman",
+      "Ken Thompson",
+      "Dennis Ritchie"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 155,
+    "question": "Apple şirketinin kurucularından olan vizyoner lider kimdir?",
+    "options": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Jeff Bezos",
+      "Elon Musk"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 156,
+    "question": "Mars'a gönderilen ünlü keşif robotlarından biri hangisidir?",
+    "options": [
+      "Curiosity",
+      "Apollo",
+      "Voyager",
+      "Sputnik"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 157,
+    "question": "Uzaya fırlatılan ilk yapay uydu hangisidir?",
+    "options": [
+      "Sputnik 1",
+      "Explorer 1",
+      "Hubble",
+      "Tiangong"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 158,
+    "question": "En ünlü uzay teleskoplarından biri hangisidir?",
+    "options": [
+      "Hubble",
+      "Galileo",
+      "Kepler",
+      "James Webb"
+    ],
+    "correctIndex": 3,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 159,
+    "question": "Güneş'e en yakın gezegen hangisidir?",
+    "options": [
+      "Venüs",
+      "Merkür",
+      "Mars",
+      "Dünya"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 160,
+    "question": "Güneş sistemindeki en soğuk gezegen hangisidir?",
+    "options": [
+      "Neptün",
+      "Uranüs",
+      "Satürn",
+      "Mars"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 161,
+    "question": "Ay yüzeyinde yerçekimi Dünya'nın yaklaşık kaçta kaçıdır?",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/6",
+      "1/10"
+    ],
+    "correctIndex": 2,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 162,
+    "question": "Ozon tabakasının temel görevi nedir?",
+    "options": [
+      "Güneş'in zararlı UV ışınlarını engellemek",
+      "Yağmur yağdırmak",
+      "Oksijen üretmek",
+      "Sıcaklığı düşürmek"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 163,
+    "question": "Hangi organımız kanı temizler ve idrar üretir?",
+    "options": [
+      "Akciğer",
+      "Böbrek",
+      "Karaciğer",
+      "Pankreas"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 164,
+    "question": "Kalbin vücuda kan pompalamasını sağlayan kas yapısına ne denir?",
+    "options": [
+      "Miyokard",
+      "Epidermis",
+      "Dermis",
+      "Perikard"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 165,
+    "question": "Kanda oksijen taşıyan kırmızı kan hücrelerine ne ad verilir?",
+    "options": [
+      "Akyuvar",
+      "Alyuvar",
+      "Trombosit",
+      "Plazma"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 166,
+    "question": "Vücudun savunma mekanizmasını oluşturan hücreler hangisidir?",
+    "options": [
+      "Alyuvar",
+      "Akyuvar (Lökosit)",
+      "Nöron",
+      "Trombosit"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 167,
+    "question": "Gözde görüntünün oluştuğu ışığa duyarlı tabaka nedir?",
+    "options": [
+      "Kornea",
+      "Retina (Ağ tabaka)",
+      "İris",
+      "Göz bebeği"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 168,
+    "question": "İnsan beyninde hafıza ve öğrenmeden sorumlu temel bölge hangisidir?",
+    "options": [
+      "Hipokampus",
+      "Beyincik",
+      "Omurilik",
+      "Talamus"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 169,
+    "question": "Denge organımız nerede yer alır?",
+    "options": [
+      "Göz",
+      "İç kulak",
+      "Burun",
+      "Ayak tabanı"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim & Teknoloji"
+  },
+  {
+    "id": 170,
+    "question": "Kuşların atası olarak kabul edilen tüylü dinozor fosili hangisidir?",
+    "options": [
+      "T-Rex",
+      "Archaeopteryx",
+      "Triceratops",
+      "Velociraptor"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 171,
+    "question": "Hangi kuş türü geriye doğru uçabilir?",
+    "options": [
+      "Kartal",
+      "Sinek kuşu (Kolibri)",
+      "Güvercin",
+      "Kırlangıç"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 172,
+    "question": "En uzun yaşayan kara kaplumbağaları hangi adalarda yaşar?",
+    "options": [
+      "Galapagos",
+      "Madagaskar",
+      "Grönland",
+      "Hawaii"
+    ],
+    "correctIndex": 0,
+    "category": "Doğa"
+  },
+  {
+    "id": 173,
+    "question": "Dünyanın en zehirli deniz canlılarından biri hangisidir?",
+    "options": [
+      "Kutu Denizanası",
+      "Yunus",
+      "Fok",
+      "Deniz kaplumbağası"
+    ],
+    "correctIndex": 0,
+    "category": "Doğa"
+  },
+  {
+    "id": 174,
+    "question": "Kanguruların ana vatanı neresidir?",
+    "options": [
+      "Afrika",
+      "Güney Amerika",
+      "Avustralya",
+      "Asya"
+    ],
+    "correctIndex": 2,
+    "category": "Doğa"
+  },
+  {
+    "id": 175,
+    "question": "Koalalar ne ile beslenir?",
+    "options": [
+      "Bambu yaprakları",
+      "Okaliptüs yaprakları",
+      "Meyve",
+      "Böcek"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 176,
+    "question": "Hangi hayvan kış uykusuna yatmasıyla bilinir?",
+    "options": [
+      "Kurt",
+      "Ayı",
+      "Geyik",
+      "Tavşan"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 177,
+    "question": "Bukalemunlar neden renk değiştirir?",
+    "options": [
+      "Kamufle olmak ve duygu durumunu belirtmek",
+      "Güneşlenmek",
+      "Uyumak",
+      "Yüzmek"
+    ],
+    "correctIndex": 0,
+    "category": "Doğa"
+  },
+  {
+    "id": 178,
+    "question": "Dünyanın en küçük kuşu hangisidir?",
+    "options": [
+      "Arı sinek kuşu",
+      "Serçe",
+      "Saka",
+      "Bülbül"
+    ],
+    "correctIndex": 0,
+    "category": "Doğa"
+  },
+  {
+    "id": 179,
+    "question": "Hangi hayvanın yavrusuna 'sıpa' denir?",
+    "options": [
+      "At",
+      "Eşek",
+      "İnek",
+      "Koyun"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 180,
+    "question": "Hangi hayvanın yavrusuna 'buzağı' denir?",
+    "options": [
+      "Koyun",
+      "İnek",
+      "Keçi",
+      "Manda"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 181,
+    "question": "Hangi hayvanın yavrusuna 'oğlak' denir?",
+    "options": [
+      "Keçi",
+      "Koyun",
+      "At",
+      "Köpek"
+    ],
+    "correctIndex": 0,
+    "category": "Doğa"
+  },
+  {
+    "id": 182,
+    "question": "Hangi kuş barışın simgesi olarak kabul edilir?",
+    "options": [
+      "Şahin",
+      "Güvercin",
+      "Kartal",
+      "Baykuş"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 183,
+    "question": "Gece avlanan ve başını 270 derece döndürebilen yırtıcı kuş hangisidir?",
+    "options": [
+      "Şahin",
+      "Baykuş",
+      "Akbaba",
+      "Doğan"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 184,
+    "question": "Hangi balık türü elektrik üretebilir?",
+    "options": [
+      "Elektrikli yılan balığı",
+      "Alabalık",
+      "Somon",
+      "Hamsi"
+    ],
+    "correctIndex": 0,
+    "category": "Doğa"
+  },
+  {
+    "id": 185,
+    "question": "Sütü pembe olan hayvan hangisidir?",
+    "options": [
+      "Zebra",
+      "Su aygırı (Hippo)",
+      "Zürafa",
+      "Gergedan"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 186,
+    "question": "Flamingoların pembe renkte olmasının sebebi nedir?",
+    "options": [
+      "Yedikleri karides ve algler",
+      "Güneş ışığı",
+      "Genetik mutasyon",
+      "Toprak rengi"
+    ],
+    "correctIndex": 0,
+    "category": "Doğa"
+  },
+  {
+    "id": 187,
+    "question": "Zürafaların dili genellikle ne renktir?",
+    "options": [
+      "Kırmızı",
+      "Mavi/Mor",
+      "Sarı",
+      "Beyaz"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 188,
+    "question": "Tembel hayvanlar (Sloth) günün çoğunu nerede geçirir?",
+    "options": [
+      "Ağaç dallarında asılı",
+      "Suda",
+      "Yeraltı tünellerinde",
+      "Kayalıklarda"
+    ],
+    "correctIndex": 0,
+    "category": "Doğa"
+  },
+  {
+    "id": 189,
+    "question": "Kutup tilkilerinin kürkleri kışın ne renk olur?",
+    "options": [
+      "Kahverengi",
+      "Beyaz",
+      "Gri",
+      "Siyah"
+    ],
+    "correctIndex": 1,
+    "category": "Doğa"
+  },
+  {
+    "id": 190,
+    "question": "Don Kişot romanının yazarı kimdir?",
+    "options": [
+      "Cervantes",
+      "Shakespeare",
+      "Dostoyevski",
+      "Tolstoy"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 191,
+    "question": "Suç ve Ceza romanının yazarı kimdir?",
+    "options": [
+      "Tolstoy",
+      "Dostoyevski",
+      "Çehov",
+      "Gorki"
+    ],
+    "correctIndex": 1,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 192,
+    "question": "Savaş ve Barış romanının yazarı kimdir?",
+    "options": [
+      "Tolstoy",
+      "Dostoyevski",
+      "Turgenyev",
+      "Puşkin"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 193,
+    "question": "Romeo ve Juliet oyununun yazarı kimdir?",
+    "options": [
+      "William Shakespeare",
+      "Moliere",
+      "Goethe",
+      "Victor Hugo"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 194,
+    "question": "Sefiller romanının yazarı kimdir?",
+    "options": [
+      "Victor Hugo",
+      "Balzac",
+      "Zola",
+      "Dumas"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 195,
+    "question": "Küçük Prens kitabının yazarı kimdir?",
+    "options": [
+      "Antoine de Saint-Exupery",
+      "Jules Verne",
+      "Albert Camus",
+      "Jean-Paul Sartre"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 196,
+    "question": "Denizler Altında Yirmi Bin Fersah romanının yazarı kimdir?",
+    "options": [
+      "Jules Verne",
+      "H.G. Wells",
+      "Arthur Conan Doyle",
+      "George Orwell"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 197,
+    "question": "1984 ve Hayvan Çiftliği romanlarının yazarı kimdir?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Franz Kafka"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 198,
+    "question": "Dönüşüm (Metamorfoz) eserinin yazarı kimdir?",
+    "options": [
+      "Franz Kafka",
+      "Nietzsche",
+      "Freud",
+      "Hermann Hesse"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 199,
+    "question": "Sherlock Holmes karakterinin yaratıcısı kimdir?",
+    "options": [
+      "Arthur Conan Doyle",
+      "Agatha Christie",
+      "Edgar Allan Poe",
+      "Stephen King"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 200,
+    "question": "Doğu Ekspresinde Cinayet romanının yazarı kimdir?",
+    "options": [
+      "Agatha Christie",
+      "Arthur Conan Doyle",
+      "Dan Brown",
+      "Stephen King"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 201,
+    "question": "Yüzüklerin Efendisi serisinin yazarı kimdir?",
+    "options": [
+      "J.R.R. Tolkien",
+      "George R.R. Martin",
+      "C.S. Lewis",
+      "J.K. Rowling"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 202,
+    "question": "Harry Potter serisinin yazarı kimdir?",
+    "options": [
+      "J.K. Rowling",
+      "J.R.R. Tolkien",
+      "Suzanne Collins",
+      "Stephenie Meyer"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 203,
+    "question": "Guernica tablosunun ressamı kimdir?",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dali",
+      "Henri Matisse",
+      "Frida Kahlo"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 204,
+    "question": "Belleğin Azmi (Eriyen Saatler) tablosu kime aittir?",
+    "options": [
+      "Salvador Dali",
+      "Rene Magritte",
+      "Picasso",
+      "Van Gogh"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 205,
+    "question": "Düşünen Adam heykelinin heykeltıraşı kimdir?",
+    "options": [
+      "Auguste Rodin",
+      "Michelangelo",
+      "Donatello",
+      "Bernini"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 206,
+    "question": "Davut (David) heykelini yapan Rönesans sanatçısı kimdir?",
+    "options": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Caravaggio"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 207,
+    "question": "9. Senfoni'nin bestecisi olan ünlü Alman besteci kimdir?",
+    "options": [
+      "Beethoven",
+      "Mozart",
+      "Bach",
+      "Chopin"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 208,
+    "question": "Dört Mevsim keman konçertosunun bestecisi kimdir?",
+    "options": [
+      "Vivaldi",
+      "Handel",
+      "Tchaikovsky",
+      "Brahms"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 209,
+    "question": "Kuğu Gölü Balesi'nin bestecisi kimdir?",
+    "options": [
+      "Çaykovski (Tchaikovsky)",
+      "Stravinski",
+      "Rachmaninoff",
+      "Prokofiev"
+    ],
+    "correctIndex": 0,
+    "category": "Sanat & Edebiyat"
+  },
+  {
+    "id": 210,
+    "question": "Yunan mitolojisinde baş tanrı kimdir?",
+    "options": [
+      "Poseidon",
+      "Zeus",
+      "Hades",
+      "Ares"
+    ],
+    "correctIndex": 1,
+    "category": "Mitoloji"
+  },
+  {
+    "id": 211,
+    "question": "Yunan mitolojisinde denizler tanrısı kimdir?",
+    "options": [
+      "Zeus",
+      "Poseidon",
+      "Hermes",
+      "Apollon"
+    ],
+    "correctIndex": 1,
+    "category": "Mitoloji"
+  },
+  {
+    "id": 212,
+    "question": "Yunan mitolojisinde yeraltı tanrısı kimdir?",
+    "options": [
+      "Hades",
+      "Ares",
+      "Hephaistos",
+      "Dionisos"
+    ],
+    "correctIndex": 0,
+    "category": "Mitoloji"
+  },
+  {
+    "id": 213,
+    "question": "İskandinav mitolojisinde şimşek tanrısı kimdir?",
+    "options": [
+      "Odin",
+      "Thor",
+      "Loki",
+      "Freyr"
+    ],
+    "correctIndex": 1,
+    "category": "Mitoloji"
+  },
+  {
+    "id": 214,
+    "question": "Mısır mitolojisinde güneş tanrısı kimdir?",
+    "options": [
+      "Ra",
+      "Anubis",
+      "Osiris",
+      "Horus"
+    ],
+    "correctIndex": 0,
+    "category": "Mitoloji"
+  },
+  {
+    "id": 215,
+    "question": "Mısır mitolojisinde mumyalama ve ölüm tanrısı kimdir?",
+    "options": [
+      "Anubis",
+      "Thoth",
+      "Seth",
+      "Sobek"
+    ],
+    "correctIndex": 0,
+    "category": "Mitoloji"
+  },
+  {
+    "id": 216,
+    "question": "Dünya Kupası'nı en çok kazanan ülke hangisidir?",
+    "options": [
+      "Almanya",
+      "İtalya",
+      "Brezilya",
+      "Arjantin"
+    ],
+    "correctIndex": 2,
+    "category": "Spor"
+  },
+  {
+    "id": 217,
+    "question": "Maraton koşusu yaklaşık kaç kilometredir?",
+    "options": [
+      "21 km",
+      "30 km",
+      "42 km",
+      "50 km"
+    ],
+    "correctIndex": 2,
+    "category": "Spor"
+  },
+  {
+    "id": 218,
+    "question": "Wimbledon tenis turnuvası hangi ülkede düzenlenir?",
+    "options": [
+      "Fransa",
+      "İngiltere",
+      "ABD",
+      "Avustralya"
+    ],
+    "correctIndex": 1,
+    "category": "Spor"
+  },
+  {
+    "id": 219,
+    "question": "Formula 1'de bayrak sallanarak yarışın bittiği nasıl gösterilir?",
+    "options": [
+      "Kırmızı Bayrak",
+      "Damalı Bayrak",
+      "Sarı Bayrak",
+      "Yeşil Bayrak"
+    ],
+    "correctIndex": 1,
+    "category": "Spor"
+  },
+  {
+    "id": 220,
+    "question": "Efsanevi boksör Muhammed Ali hangi ülkede doğmuştur?",
+    "options": [
+      "İngiltere",
+      "ABD",
+      "Küba",
+      "Güney Afrika"
+    ],
+    "correctIndex": 1,
+    "category": "Spor"
+  },
+  {
+    "id": 221,
+    "question": "Hangi gezegen ters yönde (saat yönünde) döner?",
+    "options": [
+      "Mars",
+      "Venüs",
+      "Jüpiter",
+      "Dünya"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim"
+  },
+  {
+    "id": 222,
+    "question": "Dünyanın en tuzlu göllerinden biri hangisidir?",
+    "options": [
+      "Lut Gölü (Ölü Deniz)",
+      "Baykal",
+      "Hazar",
+      "Van Gölü"
+    ],
+    "correctIndex": 0,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 223,
+    "question": "Hangisi kış mevsimi ayı değildir?",
+    "options": [
+      "Aralık",
+      "Ocak",
+      "Şubat",
+      "Kasım"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 224,
+    "question": "Hangisi sonbahar mevsimi ayı değildir?",
+    "options": [
+      "Eylül",
+      "Ekim",
+      "Kasım",
+      "Aralık"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 225,
+    "question": "Hangisi ilkbahar mevsimi ayı değildir?",
+    "options": [
+      "Mart",
+      "Nisan",
+      "Mayıs",
+      "Haziran"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 226,
+    "question": "Hangi maden sıvı halde bulunan tek metaldir?",
+    "options": [
+      "Cıva",
+      "Kurşun",
+      "Kalay",
+      "Bakır"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 227,
+    "question": "Altının kimyasal sembolü nedir?",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Cu"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim"
+  },
+  {
+    "id": 228,
+    "question": "Gümüşün kimyasal sembolü nedir?",
+    "options": [
+      "Ag",
+      "Au",
+      "Pt",
+      "Al"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 229,
+    "question": "Demirin kimyasal sembolü nedir?",
+    "options": [
+      "Fe",
+      "Ir",
+      "Dm",
+      "Zn"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 230,
+    "question": "Bakırın kimyasal sembolü nedir?",
+    "options": [
+      "Cu",
+      "Ba",
+      "Cr",
+      "Ca"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 231,
+    "question": "Kurşun kalemin içindeki yazı yazan madde nedir?",
+    "options": [
+      "Kurşun",
+      "Grafit (Karbon)",
+      "Kömür",
+      "Demir"
+    ],
+    "correctIndex": 1,
+    "category": "Bilim"
+  },
+  {
+    "id": 232,
+    "question": "Adana ilimizin plaka kodu kaçtır?",
+    "options": [
+      "00",
+      "02",
+      "07",
+      "01"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 233,
+    "question": "Adıyaman ilimizin plaka kodu kaçtır?",
+    "options": [
+      "03",
+      "08",
+      "02",
+      "01"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 234,
+    "question": "Afyonkarahisar ilimizin plaka kodu kaçtır?",
+    "options": [
+      "09",
+      "03",
+      "02",
+      "04"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 235,
+    "question": "Ağrı ilimizin plaka kodu kaçtır?",
+    "options": [
+      "10",
+      "04",
+      "05",
+      "03"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 236,
+    "question": "Amasya ilimizin plaka kodu kaçtır?",
+    "options": [
+      "06",
+      "05",
+      "11",
+      "04"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 237,
+    "question": "Ankara ilimizin plaka kodu kaçtır?",
+    "options": [
+      "06",
+      "12",
+      "07",
+      "05"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 238,
+    "question": "Antalya ilimizin plaka kodu kaçtır?",
+    "options": [
+      "08",
+      "06",
+      "07",
+      "13"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 239,
+    "question": "Artvin ilimizin plaka kodu kaçtır?",
+    "options": [
+      "14",
+      "09",
+      "08",
+      "07"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 240,
+    "question": "Aydın ilimizin plaka kodu kaçtır?",
+    "options": [
+      "10",
+      "08",
+      "15",
+      "09"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 241,
+    "question": "Balıkesir ilimizin plaka kodu kaçtır?",
+    "options": [
+      "09",
+      "11",
+      "16",
+      "10"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 242,
+    "question": "Bilecik ilimizin plaka kodu kaçtır?",
+    "options": [
+      "10",
+      "17",
+      "12",
+      "11"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 243,
+    "question": "Bingöl ilimizin plaka kodu kaçtır?",
+    "options": [
+      "18",
+      "13",
+      "12",
+      "11"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 244,
+    "question": "Bitlis ilimizin plaka kodu kaçtır?",
+    "options": [
+      "19",
+      "13",
+      "14",
+      "12"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 245,
+    "question": "Bolu ilimizin plaka kodu kaçtır?",
+    "options": [
+      "14",
+      "13",
+      "15",
+      "20"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 246,
+    "question": "Burdur ilimizin plaka kodu kaçtır?",
+    "options": [
+      "15",
+      "14",
+      "21",
+      "16"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 247,
+    "question": "Bursa ilimizin plaka kodu kaçtır?",
+    "options": [
+      "22",
+      "17",
+      "15",
+      "16"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 248,
+    "question": "Çanakkale ilimizin plaka kodu kaçtır?",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "23"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 249,
+    "question": "Çankırı ilimizin plaka kodu kaçtır?",
+    "options": [
+      "18",
+      "19",
+      "17",
+      "24"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 250,
+    "question": "Çorum ilimizin plaka kodu kaçtır?",
+    "options": [
+      "19",
+      "20",
+      "25",
+      "18"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 251,
+    "question": "Denizli ilimizin plaka kodu kaçtır?",
+    "options": [
+      "19",
+      "20",
+      "21",
+      "26"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 252,
+    "question": "Diyarbakır ilimizin plaka kodu kaçtır?",
+    "options": [
+      "21",
+      "22",
+      "20",
+      "27"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 253,
+    "question": "Edirne ilimizin plaka kodu kaçtır?",
+    "options": [
+      "28",
+      "23",
+      "21",
+      "22"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 254,
+    "question": "Elazığ ilimizin plaka kodu kaçtır?",
+    "options": [
+      "22",
+      "23",
+      "24",
+      "29"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 255,
+    "question": "Erzincan ilimizin plaka kodu kaçtır?",
+    "options": [
+      "24",
+      "25",
+      "30",
+      "23"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 256,
+    "question": "Erzurum ilimizin plaka kodu kaçtır?",
+    "options": [
+      "24",
+      "31",
+      "26",
+      "25"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 257,
+    "question": "Eskişehir ilimizin plaka kodu kaçtır?",
+    "options": [
+      "26",
+      "25",
+      "27",
+      "32"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 258,
+    "question": "Gaziantep ilimizin plaka kodu kaçtır?",
+    "options": [
+      "33",
+      "27",
+      "28",
+      "26"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 259,
+    "question": "Giresun ilimizin plaka kodu kaçtır?",
+    "options": [
+      "27",
+      "29",
+      "34",
+      "28"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 260,
+    "question": "Gümüşhane ilimizin plaka kodu kaçtır?",
+    "options": [
+      "30",
+      "35",
+      "28",
+      "29"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 261,
+    "question": "Hakkari ilimizin plaka kodu kaçtır?",
+    "options": [
+      "29",
+      "36",
+      "30",
+      "31"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 262,
+    "question": "Hatay ilimizin plaka kodu kaçtır?",
+    "options": [
+      "32",
+      "30",
+      "31",
+      "37"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 263,
+    "question": "Isparta ilimizin plaka kodu kaçtır?",
+    "options": [
+      "32",
+      "33",
+      "38",
+      "31"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 264,
+    "question": "Mersin ilimizin plaka kodu kaçtır?",
+    "options": [
+      "33",
+      "32",
+      "34",
+      "39"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 265,
+    "question": "İstanbul ilimizin plaka kodu kaçtır?",
+    "options": [
+      "35",
+      "34",
+      "40",
+      "33"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 266,
+    "question": "İzmir ilimizin plaka kodu kaçtır?",
+    "options": [
+      "35",
+      "34",
+      "36",
+      "41"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 267,
+    "question": "Kars ilimizin plaka kodu kaçtır?",
+    "options": [
+      "37",
+      "42",
+      "35",
+      "36"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 268,
+    "question": "Kastamonu ilimizin plaka kodu kaçtır?",
+    "options": [
+      "36",
+      "43",
+      "37",
+      "38"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 269,
+    "question": "Kayseri ilimizin plaka kodu kaçtır?",
+    "options": [
+      "44",
+      "39",
+      "38",
+      "37"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 270,
+    "question": "Kırklareli ilimizin plaka kodu kaçtır?",
+    "options": [
+      "40",
+      "38",
+      "45",
+      "39"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 271,
+    "question": "Kırşehir ilimizin plaka kodu kaçtır?",
+    "options": [
+      "39",
+      "40",
+      "46",
+      "41"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 272,
+    "question": "Kocaeli ilimizin plaka kodu kaçtır?",
+    "options": [
+      "41",
+      "42",
+      "40",
+      "47"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 273,
+    "question": "Konya ilimizin plaka kodu kaçtır?",
+    "options": [
+      "41",
+      "42",
+      "43",
+      "48"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 274,
+    "question": "Kütahya ilimizin plaka kodu kaçtır?",
+    "options": [
+      "49",
+      "43",
+      "42",
+      "44"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 275,
+    "question": "Malatya ilimizin plaka kodu kaçtır?",
+    "options": [
+      "44",
+      "43",
+      "50",
+      "45"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 276,
+    "question": "Manisa ilimizin plaka kodu kaçtır?",
+    "options": [
+      "51",
+      "46",
+      "44",
+      "45"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 277,
+    "question": "Kahramanmaraş ilimizin plaka kodu kaçtır?",
+    "options": [
+      "47",
+      "52",
+      "46",
+      "45"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 278,
+    "question": "Mardin ilimizin plaka kodu kaçtır?",
+    "options": [
+      "48",
+      "46",
+      "53",
+      "47"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 279,
+    "question": "Muğla ilimizin plaka kodu kaçtır?",
+    "options": [
+      "48",
+      "54",
+      "49",
+      "47"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 280,
+    "question": "Nevşehir ilimizin plaka kodu kaçtır?",
+    "options": [
+      "49",
+      "50",
+      "51",
+      "56"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 281,
+    "question": "Ordu ilimizin plaka kodu kaçtır?",
+    "options": [
+      "58",
+      "52",
+      "53",
+      "51"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 282,
+    "question": "Rize ilimizin plaka kodu kaçtır?",
+    "options": [
+      "59",
+      "52",
+      "54",
+      "53"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 283,
+    "question": "Sakarya ilimizin plaka kodu kaçtır?",
+    "options": [
+      "60",
+      "55",
+      "53",
+      "54"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 284,
+    "question": "Samsun ilimizin plaka kodu kaçtır?",
+    "options": [
+      "54",
+      "56",
+      "61",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 285,
+    "question": "Sivas ilimizin plaka kodu kaçtır?",
+    "options": [
+      "64",
+      "57",
+      "59",
+      "58"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 286,
+    "question": "Tekirdağ ilimizin plaka kodu kaçtır?",
+    "options": [
+      "59",
+      "65",
+      "60",
+      "58"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 287,
+    "question": "Trabzon ilimizin plaka kodu kaçtır?",
+    "options": [
+      "60",
+      "62",
+      "61",
+      "67"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 288,
+    "question": "Şanlıurfa ilimizin plaka kodu kaçtır?",
+    "options": [
+      "69",
+      "62",
+      "64",
+      "63"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 289,
+    "question": "Uşak ilimizin plaka kodu kaçtır?",
+    "options": [
+      "64",
+      "70",
+      "65",
+      "63"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 290,
+    "question": "Van ilimizin plaka kodu kaçtır?",
+    "options": [
+      "66",
+      "65",
+      "71",
+      "64"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 291,
+    "question": "Yozgat ilimizin plaka kodu kaçtır?",
+    "options": [
+      "72",
+      "66",
+      "67",
+      "65"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 292,
+    "question": "Zonguldak ilimizin plaka kodu kaçtır?",
+    "options": [
+      "68",
+      "67",
+      "66",
+      "73"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 293,
+    "question": "Aksaray ilimizin plaka kodu kaçtır?",
+    "options": [
+      "67",
+      "68",
+      "74",
+      "69"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 294,
+    "question": "Bayburt ilimizin plaka kodu kaçtır?",
+    "options": [
+      "68",
+      "69",
+      "70",
+      "75"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 295,
+    "question": "Karaman ilimizin plaka kodu kaçtır?",
+    "options": [
+      "69",
+      "76",
+      "70",
+      "71"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 296,
+    "question": "Kırıkkale ilimizin plaka kodu kaçtır?",
+    "options": [
+      "71",
+      "72",
+      "77",
+      "70"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 297,
+    "question": "Batman ilimizin plaka kodu kaçtır?",
+    "options": [
+      "78",
+      "71",
+      "73",
+      "72"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 298,
+    "question": "Şırnak ilimizin plaka kodu kaçtır?",
+    "options": [
+      "73",
+      "74",
+      "79",
+      "72"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 299,
+    "question": "Bartın ilimizin plaka kodu kaçtır?",
+    "options": [
+      "80",
+      "74",
+      "73",
+      "75"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 300,
+    "question": "Ardahan ilimizin plaka kodu kaçtır?",
+    "options": [
+      "76",
+      "75",
+      "81",
+      "74"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 301,
+    "question": "Iğdır ilimizin plaka kodu kaçtır?",
+    "options": [
+      "01",
+      "76",
+      "77",
+      "75"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 302,
+    "question": "Yalova ilimizin plaka kodu kaçtır?",
+    "options": [
+      "77",
+      "78",
+      "76",
+      "02"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 303,
+    "question": "Karabük ilimizin plaka kodu kaçtır?",
+    "options": [
+      "77",
+      "78",
+      "79",
+      "03"
+    ],
+    "correctIndex": 1,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 304,
+    "question": "Kilis ilimizin plaka kodu kaçtır?",
+    "options": [
+      "80",
+      "78",
+      "04",
+      "79"
+    ],
+    "correctIndex": 3,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 305,
+    "question": "Osmaniye ilimizin plaka kodu kaçtır?",
+    "options": [
+      "79",
+      "05",
+      "80",
+      "81"
+    ],
+    "correctIndex": 2,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 306,
+    "question": "Düzce ilimizin plaka kodu kaçtır?",
+    "options": [
+      "81",
+      "06",
+      "80",
+      "82"
+    ],
+    "correctIndex": 0,
+    "category": "Genel Kültür"
+  },
+  {
+    "id": 307,
+    "question": "Güneş sistemindeki en büyük uydu hangisidir?",
+    "options": [
+      "Ganymede",
+      "Titan",
+      "Ay",
+      "Europa"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 308,
+    "question": "Satürn'ün en büyük uydusu hangisidir?",
+    "options": [
+      "Titan",
+      "Enceladus",
+      "Mimas",
+      "Rhea"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 309,
+    "question": "Jüpiter'in volkanik olarak en aktif uydusu hangisidir?",
+    "options": [
+      "Io",
+      "Europa",
+      "Callisto",
+      "Ganymede"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 310,
+    "question": "Dünya'nın uydusu olan gök cismi hangisidir?",
+    "options": [
+      "Ay",
+      "Mars",
+      "Güneş",
+      "Venüs"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 311,
+    "question": "Karasal gezegenler grubunda hangisi yer almaz?",
+    "options": [
+      "Merkür",
+      "Venüs",
+      "Mars",
+      "Jüpiter"
+    ],
+    "correctIndex": 3,
+    "category": "Bilim"
+  },
+  {
+    "id": 312,
+    "question": "Gaz devi gezegenler grubunda hangisi yer alır?",
+    "options": [
+      "Satürn",
+      "Merkür",
+      "Venüs",
+      "Mars"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 313,
+    "question": "Hangi vitamin güneş ışığı sayesinde vücutta sentezlenir?",
+    "options": [
+      "D Vitamini",
+      "C Vitamini",
+      "B12 Vitamini",
+      "A Vitamini"
+    ],
+    "correctIndex": 0,
+    "category": "Sağlık"
+  },
+  {
+    "id": 314,
+    "question": "Havuçta bol miktarda bulunan ve göz sağlığına iyi gelen vitamin hangisidir?",
+    "options": [
+      "A Vitamini",
+      "C Vitamini",
+      "D Vitamini",
+      "K Vitamini"
+    ],
+    "correctIndex": 0,
+    "category": "Sağlık"
+  },
+  {
+    "id": 315,
+    "question": "Portakal ve limonda bol miktarda bulunan vitamin hangisidir?",
+    "options": [
+      "C Vitamini",
+      "A Vitamini",
+      "D Vitamini",
+      "E Vitamini"
+    ],
+    "correctIndex": 0,
+    "category": "Sağlık"
+  },
+  {
+    "id": 316,
+    "question": "Kanın pıhtılaşmasında görev alan vitamin hangisidir?",
+    "options": [
+      "K Vitamini",
+      "C Vitamini",
+      "D Vitamini",
+      "B Vitamini"
+    ],
+    "correctIndex": 0,
+    "category": "Sağlık"
+  },
+  {
+    "id": 317,
+    "question": "Vücudumuzun enerji ihtiyacını karşılayan temel besin grubu hangisidir?",
+    "options": [
+      "Karbonhidratlar",
+      "Mineraller",
+      "Vitaminler",
+      "Su"
+    ],
+    "correctIndex": 0,
+    "category": "Sağlık"
+  },
+  {
+    "id": 318,
+    "question": "Kasların gelişimi ve onarımı için en önemli besin grubu hangisidir?",
+    "options": [
+      "Proteinler",
+      "Yağlar",
+      "Tuz",
+      "Karbonhidratlar"
+    ],
+    "correctIndex": 0,
+    "category": "Sağlık"
+  },
+  {
+    "id": 319,
+    "question": "Tuzun kimyasal formülü nedir?",
+    "options": [
+      "NaCl",
+      "KCl",
+      "CaCl2",
+      "HCl"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 320,
+    "question": "Karbondioksitin kimyasal formülü nedir?",
+    "options": [
+      "CO2",
+      "CO",
+      "CH4",
+      "O2"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 321,
+    "question": "Metan gazının kimyasal formülü nedir?",
+    "options": [
+      "CH4",
+      "C2H6",
+      "NH3",
+      "CO2"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 322,
+    "question": "Amonyak bileşiğinin kimyasal formülü nedir?",
+    "options": [
+      "NH3",
+      "NO2",
+      "HNO3",
+      "N2O"
+    ],
+    "correctIndex": 0,
+    "category": "Bilim"
+  },
+  {
+    "id": 323,
+    "question": "Tarihte bilinen ilk yazılı kanunlar kime aittir?",
+    "options": [
+      "Hammurabi",
+      "Sezar",
+      "İskender",
+      "Ramses"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 324,
+    "question": "Mısır piramitlerinden en büyüğü hangisidir?",
+    "options": [
+      "Keops",
+      "Kefren",
+      "Mikerinos",
+      "Zoser"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 325,
+    "question": "Dünyanın Yedi Harikası'ndan günümüze kadar ulaşan tek eser hangisidir?",
+    "options": [
+      "Keops Piramidi",
+      "Babil'in Asma Bahçeleri",
+      "İskenderiye Feneri",
+      "Rodos Heykeli"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 326,
+    "question": "Rodos Heykeli hangi tanrı adına yapılmıştır?",
+    "options": [
+      "Helios",
+      "Zeus",
+      "Apollo",
+      "Hermes"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 327,
+    "question": "Babil'in Asma Bahçeleri günümüzde hangi ülkenin sınırları içinde yer alırdı?",
+    "options": [
+      "Irak",
+      "İran",
+      "Mısır",
+      "Suriye"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 328,
+    "question": "Tac Mahal hangi ülkededir?",
+    "options": [
+      "Hindistan",
+      "Pakistan",
+      "İran",
+      "Türkiye"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 329,
+    "question": "Tac Mahal'i eşi Mümtaz Mahal için yaptıran hükümdar kimdir?",
+    "options": [
+      "Şah Cihan",
+      "Babür Şah",
+      "Ekber Şah",
+      "Cihangir"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 330,
+    "question": "Çin Seddi neden inşa edilmiştir?",
+    "options": [
+      "Kuzeyden gelen akınları durdurmak için",
+      "Ticaret yolu yapmak için",
+      "Törenler için",
+      "Tarım sulaması için"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 331,
+    "question": "Kolezyum hangi şehirdedir?",
+    "options": [
+      "Roma",
+      "Atina",
+      "Paris",
+      "Barselona"
+    ],
+    "correctIndex": 0,
+    "category": "Tarih"
+  },
+  {
+    "id": 332,
+    "question": "Eyfel Kulesi hangi şehirdedir?",
+    "options": [
+      "Paris",
+      "Lyon",
+      "Marsilya",
+      "Nice"
+    ],
+    "correctIndex": 0,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 333,
+    "question": "Özgürlük Heykeli hangi şehirdedir?",
+    "options": [
+      "New York",
+      "Washington",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "correctIndex": 0,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 334,
+    "question": "Big Ben saat kulesi hangi şehirdedir?",
+    "options": [
+      "Londra",
+      "Edinburgh",
+      "Dublin",
+      "Manchester"
+    ],
+    "correctIndex": 0,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 335,
+    "question": "Pisa Kulesi hangi ülkededir?",
+    "options": [
+      "İtalya",
+      "İspanya",
+      "Fransa",
+      "Yunanistan"
+    ],
+    "correctIndex": 0,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 336,
+    "question": "Kızıl Meydan hangi şehirdedir?",
+    "options": [
+      "Moskova",
+      "St. Petersburg",
+      "Kazan",
+      "Kiev"
+    ],
+    "correctIndex": 0,
+    "category": "Coğrafya"
+  },
+  {
+    "id": 337,
+    "question": "17 + 8 işleminin sonucu kaçtır?",
+    "options": [
+      "30",
+      "25",
+      "22",
+      "27"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 338,
+    "question": "24 + 11 işleminin sonucu kaçtır?",
+    "options": [
+      "37",
+      "32",
+      "40",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 339,
+    "question": "31 + 14 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "45",
+      "42",
+      "47"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 340,
+    "question": "38 + 17 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "55",
+      "60",
+      "57"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 341,
+    "question": "45 + 20 işleminin sonucu kaçtır?",
+    "options": [
+      "65",
+      "67",
+      "70",
+      "62"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 342,
+    "question": "52 + 23 işleminin sonucu kaçtır?",
+    "options": [
+      "80",
+      "72",
+      "77",
+      "75"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 343,
+    "question": "59 + 6 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "67",
+      "65",
+      "62"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 344,
+    "question": "16 + 9 işleminin sonucu kaçtır?",
+    "options": [
+      "25",
+      "22",
+      "30",
+      "27"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 345,
+    "question": "23 + 12 işleminin sonucu kaçtır?",
+    "options": [
+      "35",
+      "37",
+      "32",
+      "40"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 346,
+    "question": "30 + 15 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "42",
+      "47",
+      "45"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 347,
+    "question": "37 + 18 işleminin sonucu kaçtır?",
+    "options": [
+      "55",
+      "57",
+      "52",
+      "60"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 348,
+    "question": "44 + 21 işleminin sonucu kaçtır?",
+    "options": [
+      "65",
+      "62",
+      "67",
+      "70"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 349,
+    "question": "51 + 24 işleminin sonucu kaçtır?",
+    "options": [
+      "80",
+      "75",
+      "77",
+      "72"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 350,
+    "question": "58 + 7 işleminin sonucu kaçtır?",
+    "options": [
+      "67",
+      "70",
+      "62",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 351,
+    "question": "15 + 10 işleminin sonucu kaçtır?",
+    "options": [
+      "30",
+      "22",
+      "25",
+      "27"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 352,
+    "question": "22 + 13 işleminin sonucu kaçtır?",
+    "options": [
+      "35",
+      "40",
+      "37",
+      "32"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 353,
+    "question": "29 + 16 işleminin sonucu kaçtır?",
+    "options": [
+      "45",
+      "42",
+      "47",
+      "50"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 354,
+    "question": "36 + 19 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "60",
+      "55",
+      "57"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 355,
+    "question": "43 + 22 işleminin sonucu kaçtır?",
+    "options": [
+      "67",
+      "70",
+      "62",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 356,
+    "question": "50 + 5 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "55",
+      "60",
+      "57"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 357,
+    "question": "57 + 8 işleminin sonucu kaçtır?",
+    "options": [
+      "65",
+      "62",
+      "70",
+      "67"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 358,
+    "question": "14 + 11 işleminin sonucu kaçtır?",
+    "options": [
+      "30",
+      "22",
+      "25",
+      "27"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 359,
+    "question": "21 + 14 işleminin sonucu kaçtır?",
+    "options": [
+      "37",
+      "40",
+      "35",
+      "32"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 360,
+    "question": "28 + 17 işleminin sonucu kaçtır?",
+    "options": [
+      "47",
+      "45",
+      "42",
+      "50"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 361,
+    "question": "35 + 20 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "52",
+      "55",
+      "60"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 362,
+    "question": "42 + 23 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "65",
+      "62",
+      "67"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 363,
+    "question": "49 + 6 işleminin sonucu kaçtır?",
+    "options": [
+      "55",
+      "57",
+      "52",
+      "60"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 364,
+    "question": "56 + 9 işleminin sonucu kaçtır?",
+    "options": [
+      "67",
+      "70",
+      "62",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 365,
+    "question": "13 + 12 işleminin sonucu kaçtır?",
+    "options": [
+      "30",
+      "22",
+      "27",
+      "25"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 366,
+    "question": "20 + 15 işleminin sonucu kaçtır?",
+    "options": [
+      "37",
+      "35",
+      "40",
+      "32"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 367,
+    "question": "27 + 18 işleminin sonucu kaçtır?",
+    "options": [
+      "42",
+      "50",
+      "47",
+      "45"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 368,
+    "question": "34 + 21 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "52",
+      "60",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 369,
+    "question": "41 + 24 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "65",
+      "62",
+      "67"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 370,
+    "question": "48 + 7 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "55",
+      "60",
+      "52"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 371,
+    "question": "55 + 10 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "67",
+      "65",
+      "62"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 372,
+    "question": "12 + 13 işleminin sonucu kaçtır?",
+    "options": [
+      "27",
+      "30",
+      "25",
+      "22"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 373,
+    "question": "19 + 16 işleminin sonucu kaçtır?",
+    "options": [
+      "37",
+      "40",
+      "32",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 374,
+    "question": "26 + 19 işleminin sonucu kaçtır?",
+    "options": [
+      "42",
+      "45",
+      "47",
+      "50"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 375,
+    "question": "33 + 22 işleminin sonucu kaçtır?",
+    "options": [
+      "55",
+      "52",
+      "60",
+      "57"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 376,
+    "question": "40 + 5 işleminin sonucu kaçtır?",
+    "options": [
+      "47",
+      "45",
+      "42",
+      "50"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 377,
+    "question": "47 + 8 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "55",
+      "57",
+      "60"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 378,
+    "question": "54 + 11 işleminin sonucu kaçtır?",
+    "options": [
+      "62",
+      "67",
+      "70",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 379,
+    "question": "11 + 14 işleminin sonucu kaçtır?",
+    "options": [
+      "22",
+      "30",
+      "27",
+      "25"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 380,
+    "question": "18 + 17 işleminin sonucu kaçtır?",
+    "options": [
+      "37",
+      "35",
+      "32",
+      "40"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 381,
+    "question": "25 + 20 işleminin sonucu kaçtır?",
+    "options": [
+      "45",
+      "50",
+      "47",
+      "42"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 382,
+    "question": "32 + 23 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "60",
+      "57",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 383,
+    "question": "39 + 6 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "47",
+      "45",
+      "42"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 384,
+    "question": "46 + 9 işleminin sonucu kaçtır?",
+    "options": [
+      "60",
+      "57",
+      "55",
+      "52"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 385,
+    "question": "53 + 12 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "62",
+      "67",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 386,
+    "question": "10 + 15 işleminin sonucu kaçtır?",
+    "options": [
+      "25",
+      "22",
+      "27",
+      "30"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 387,
+    "question": "17 + 18 işleminin sonucu kaçtır?",
+    "options": [
+      "40",
+      "35",
+      "32",
+      "37"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 388,
+    "question": "24 + 21 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "47",
+      "45",
+      "42"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 389,
+    "question": "31 + 24 işleminin sonucu kaçtır?",
+    "options": [
+      "55",
+      "52",
+      "60",
+      "57"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 390,
+    "question": "38 + 7 işleminin sonucu kaçtır?",
+    "options": [
+      "45",
+      "42",
+      "50",
+      "47"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 391,
+    "question": "45 + 10 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "52",
+      "60",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 392,
+    "question": "52 + 13 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "62",
+      "67",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 393,
+    "question": "59 + 16 işleminin sonucu kaçtır?",
+    "options": [
+      "72",
+      "80",
+      "77",
+      "75"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 394,
+    "question": "16 + 19 işleminin sonucu kaçtır?",
+    "options": [
+      "40",
+      "32",
+      "35",
+      "37"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 395,
+    "question": "23 + 22 işleminin sonucu kaçtır?",
+    "options": [
+      "42",
+      "50",
+      "45",
+      "47"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 396,
+    "question": "30 + 5 işleminin sonucu kaçtır?",
+    "options": [
+      "40",
+      "35",
+      "37",
+      "32"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 397,
+    "question": "37 + 8 işleminin sonucu kaçtır?",
+    "options": [
+      "47",
+      "42",
+      "45",
+      "50"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 398,
+    "question": "44 + 11 işleminin sonucu kaçtır?",
+    "options": [
+      "60",
+      "52",
+      "55",
+      "57"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 399,
+    "question": "51 + 14 işleminin sonucu kaçtır?",
+    "options": [
+      "65",
+      "62",
+      "67",
+      "70"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 400,
+    "question": "58 + 17 işleminin sonucu kaçtır?",
+    "options": [
+      "72",
+      "77",
+      "75",
+      "80"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 401,
+    "question": "15 + 20 işleminin sonucu kaçtır?",
+    "options": [
+      "35",
+      "32",
+      "37",
+      "40"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 402,
+    "question": "22 + 23 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "42",
+      "47",
+      "45"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 403,
+    "question": "29 + 6 işleminin sonucu kaçtır?",
+    "options": [
+      "32",
+      "37",
+      "40",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 404,
+    "question": "36 + 9 işleminin sonucu kaçtır?",
+    "options": [
+      "47",
+      "45",
+      "42",
+      "50"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 405,
+    "question": "43 + 12 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "52",
+      "60",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 406,
+    "question": "50 + 15 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "62",
+      "67",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 407,
+    "question": "57 + 18 işleminin sonucu kaçtır?",
+    "options": [
+      "77",
+      "75",
+      "80",
+      "72"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 408,
+    "question": "14 + 21 işleminin sonucu kaçtır?",
+    "options": [
+      "37",
+      "40",
+      "32",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 409,
+    "question": "21 + 24 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "47",
+      "45",
+      "42"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 410,
+    "question": "28 + 7 işleminin sonucu kaçtır?",
+    "options": [
+      "32",
+      "40",
+      "37",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 411,
+    "question": "35 + 10 işleminin sonucu kaçtır?",
+    "options": [
+      "45",
+      "47",
+      "42",
+      "50"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 412,
+    "question": "42 + 13 işleminin sonucu kaçtır?",
+    "options": [
+      "55",
+      "60",
+      "57",
+      "52"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 413,
+    "question": "49 + 16 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "65",
+      "67",
+      "62"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 414,
+    "question": "56 + 19 işleminin sonucu kaçtır?",
+    "options": [
+      "72",
+      "80",
+      "75",
+      "77"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 415,
+    "question": "13 + 22 işleminin sonucu kaçtır?",
+    "options": [
+      "35",
+      "32",
+      "40",
+      "37"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 416,
+    "question": "20 + 5 işleminin sonucu kaçtır?",
+    "options": [
+      "25",
+      "30",
+      "27",
+      "22"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 417,
+    "question": "27 + 8 işleminin sonucu kaçtır?",
+    "options": [
+      "35",
+      "32",
+      "37",
+      "40"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 418,
+    "question": "34 + 11 işleminin sonucu kaçtır?",
+    "options": [
+      "45",
+      "42",
+      "50",
+      "47"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 419,
+    "question": "41 + 14 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "55",
+      "57",
+      "60"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 420,
+    "question": "48 + 17 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "67",
+      "65",
+      "62"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 421,
+    "question": "55 + 20 işleminin sonucu kaçtır?",
+    "options": [
+      "80",
+      "75",
+      "72",
+      "77"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 422,
+    "question": "12 + 23 işleminin sonucu kaçtır?",
+    "options": [
+      "40",
+      "37",
+      "32",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 423,
+    "question": "19 + 6 işleminin sonucu kaçtır?",
+    "options": [
+      "30",
+      "25",
+      "22",
+      "27"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 424,
+    "question": "26 + 9 işleminin sonucu kaçtır?",
+    "options": [
+      "32",
+      "37",
+      "35",
+      "40"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 425,
+    "question": "33 + 12 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "47",
+      "42",
+      "45"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 426,
+    "question": "40 + 15 işleminin sonucu kaçtır?",
+    "options": [
+      "60",
+      "55",
+      "52",
+      "57"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 427,
+    "question": "47 + 18 işleminin sonucu kaçtır?",
+    "options": [
+      "67",
+      "70",
+      "62",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 428,
+    "question": "54 + 21 işleminin sonucu kaçtır?",
+    "options": [
+      "75",
+      "77",
+      "72",
+      "80"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 429,
+    "question": "11 + 24 işleminin sonucu kaçtır?",
+    "options": [
+      "35",
+      "37",
+      "32",
+      "40"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 430,
+    "question": "18 + 7 işleminin sonucu kaçtır?",
+    "options": [
+      "22",
+      "30",
+      "25",
+      "27"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 431,
+    "question": "25 + 10 işleminin sonucu kaçtır?",
+    "options": [
+      "32",
+      "35",
+      "40",
+      "37"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 432,
+    "question": "32 + 13 işleminin sonucu kaçtır?",
+    "options": [
+      "45",
+      "50",
+      "47",
+      "42"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 433,
+    "question": "39 + 16 işleminin sonucu kaçtır?",
+    "options": [
+      "55",
+      "52",
+      "60",
+      "57"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 434,
+    "question": "46 + 19 işleminin sonucu kaçtır?",
+    "options": [
+      "67",
+      "65",
+      "70",
+      "62"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 435,
+    "question": "53 + 22 işleminin sonucu kaçtır?",
+    "options": [
+      "72",
+      "75",
+      "77",
+      "80"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 436,
+    "question": "10 + 5 işleminin sonucu kaçtır?",
+    "options": [
+      "15",
+      "12",
+      "20",
+      "17"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 437,
+    "question": "17 + 8 işleminin sonucu kaçtır?",
+    "options": [
+      "25",
+      "30",
+      "22",
+      "27"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 438,
+    "question": "24 + 11 işleminin sonucu kaçtır?",
+    "options": [
+      "35",
+      "40",
+      "32",
+      "37"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 439,
+    "question": "31 + 14 işleminin sonucu kaçtır?",
+    "options": [
+      "47",
+      "45",
+      "42",
+      "50"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 440,
+    "question": "38 + 17 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "52",
+      "60",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 441,
+    "question": "45 + 20 işleminin sonucu kaçtır?",
+    "options": [
+      "67",
+      "65",
+      "70",
+      "62"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 442,
+    "question": "52 + 23 işleminin sonucu kaçtır?",
+    "options": [
+      "72",
+      "77",
+      "75",
+      "80"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 443,
+    "question": "59 + 6 işleminin sonucu kaçtır?",
+    "options": [
+      "65",
+      "70",
+      "62",
+      "67"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 444,
+    "question": "16 + 9 işleminin sonucu kaçtır?",
+    "options": [
+      "30",
+      "25",
+      "22",
+      "27"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 445,
+    "question": "23 + 12 işleminin sonucu kaçtır?",
+    "options": [
+      "40",
+      "37",
+      "35",
+      "32"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 446,
+    "question": "30 + 15 işleminin sonucu kaçtır?",
+    "options": [
+      "47",
+      "45",
+      "42",
+      "50"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 447,
+    "question": "37 + 18 işleminin sonucu kaçtır?",
+    "options": [
+      "55",
+      "52",
+      "60",
+      "57"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 448,
+    "question": "44 + 21 işleminin sonucu kaçtır?",
+    "options": [
+      "65",
+      "67",
+      "62",
+      "70"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 449,
+    "question": "51 + 24 işleminin sonucu kaçtır?",
+    "options": [
+      "80",
+      "77",
+      "72",
+      "75"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 450,
+    "question": "58 + 7 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "65",
+      "62",
+      "67"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 451,
+    "question": "15 + 10 işleminin sonucu kaçtır?",
+    "options": [
+      "27",
+      "30",
+      "25",
+      "22"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 452,
+    "question": "22 + 13 işleminin sonucu kaçtır?",
+    "options": [
+      "37",
+      "40",
+      "35",
+      "32"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 453,
+    "question": "29 + 16 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "42",
+      "45",
+      "47"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 454,
+    "question": "36 + 19 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "55",
+      "60",
+      "57"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 455,
+    "question": "43 + 22 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "67",
+      "65",
+      "62"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 456,
+    "question": "50 + 5 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "60",
+      "55",
+      "57"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 457,
+    "question": "57 + 8 işleminin sonucu kaçtır?",
+    "options": [
+      "62",
+      "67",
+      "70",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 458,
+    "question": "14 + 11 işleminin sonucu kaçtır?",
+    "options": [
+      "25",
+      "30",
+      "22",
+      "27"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 459,
+    "question": "21 + 14 işleminin sonucu kaçtır?",
+    "options": [
+      "32",
+      "40",
+      "37",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 460,
+    "question": "28 + 17 işleminin sonucu kaçtır?",
+    "options": [
+      "47",
+      "45",
+      "50",
+      "42"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 461,
+    "question": "35 + 20 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "60",
+      "55",
+      "57"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 462,
+    "question": "42 + 23 işleminin sonucu kaçtır?",
+    "options": [
+      "70",
+      "67",
+      "62",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 463,
+    "question": "49 + 6 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "60",
+      "52",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 464,
+    "question": "56 + 9 işleminin sonucu kaçtır?",
+    "options": [
+      "65",
+      "62",
+      "70",
+      "67"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 465,
+    "question": "13 + 12 işleminin sonucu kaçtır?",
+    "options": [
+      "30",
+      "27",
+      "25",
+      "22"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 466,
+    "question": "20 + 15 işleminin sonucu kaçtır?",
+    "options": [
+      "35",
+      "32",
+      "37",
+      "40"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 467,
+    "question": "27 + 18 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "45",
+      "47",
+      "42"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 468,
+    "question": "34 + 21 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "57",
+      "55",
+      "60"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 469,
+    "question": "41 + 24 işleminin sonucu kaçtır?",
+    "options": [
+      "65",
+      "62",
+      "67",
+      "70"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 470,
+    "question": "48 + 7 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "55",
+      "52",
+      "60"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 471,
+    "question": "55 + 10 işleminin sonucu kaçtır?",
+    "options": [
+      "65",
+      "67",
+      "70",
+      "62"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 472,
+    "question": "12 + 13 işleminin sonucu kaçtır?",
+    "options": [
+      "27",
+      "25",
+      "22",
+      "30"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 473,
+    "question": "19 + 16 işleminin sonucu kaçtır?",
+    "options": [
+      "32",
+      "37",
+      "40",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 474,
+    "question": "26 + 19 işleminin sonucu kaçtır?",
+    "options": [
+      "45",
+      "42",
+      "50",
+      "47"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 475,
+    "question": "33 + 22 işleminin sonucu kaçtır?",
+    "options": [
+      "60",
+      "57",
+      "52",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 476,
+    "question": "40 + 5 işleminin sonucu kaçtır?",
+    "options": [
+      "42",
+      "47",
+      "50",
+      "45"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 477,
+    "question": "47 + 8 işleminin sonucu kaçtır?",
+    "options": [
+      "60",
+      "57",
+      "52",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 478,
+    "question": "54 + 11 işleminin sonucu kaçtır?",
+    "options": [
+      "62",
+      "67",
+      "65",
+      "70"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 479,
+    "question": "11 + 14 işleminin sonucu kaçtır?",
+    "options": [
+      "30",
+      "22",
+      "25",
+      "27"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 480,
+    "question": "18 + 17 işleminin sonucu kaçtır?",
+    "options": [
+      "32",
+      "37",
+      "35",
+      "40"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 481,
+    "question": "25 + 20 işleminin sonucu kaçtır?",
+    "options": [
+      "47",
+      "45",
+      "42",
+      "50"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 482,
+    "question": "32 + 23 işleminin sonucu kaçtır?",
+    "options": [
+      "52",
+      "60",
+      "55",
+      "57"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 483,
+    "question": "39 + 6 işleminin sonucu kaçtır?",
+    "options": [
+      "45",
+      "42",
+      "50",
+      "47"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 484,
+    "question": "46 + 9 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "55",
+      "52",
+      "60"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 485,
+    "question": "53 + 12 işleminin sonucu kaçtır?",
+    "options": [
+      "62",
+      "67",
+      "70",
+      "65"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 486,
+    "question": "10 + 15 işleminin sonucu kaçtır?",
+    "options": [
+      "30",
+      "25",
+      "27",
+      "22"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 487,
+    "question": "17 + 18 işleminin sonucu kaçtır?",
+    "options": [
+      "37",
+      "35",
+      "32",
+      "40"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 488,
+    "question": "24 + 21 işleminin sonucu kaçtır?",
+    "options": [
+      "47",
+      "45",
+      "42",
+      "50"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 489,
+    "question": "31 + 24 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "52",
+      "55",
+      "60"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 490,
+    "question": "38 + 7 işleminin sonucu kaçtır?",
+    "options": [
+      "45",
+      "42",
+      "50",
+      "47"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 491,
+    "question": "45 + 10 işleminin sonucu kaçtır?",
+    "options": [
+      "55",
+      "57",
+      "60",
+      "52"
+    ],
+    "correctIndex": 0,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 492,
+    "question": "52 + 13 işleminin sonucu kaçtır?",
+    "options": [
+      "62",
+      "65",
+      "67",
+      "70"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 493,
+    "question": "59 + 16 işleminin sonucu kaçtır?",
+    "options": [
+      "77",
+      "72",
+      "75",
+      "80"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 494,
+    "question": "16 + 19 işleminin sonucu kaçtır?",
+    "options": [
+      "40",
+      "32",
+      "35",
+      "37"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 495,
+    "question": "23 + 22 işleminin sonucu kaçtır?",
+    "options": [
+      "42",
+      "47",
+      "45",
+      "50"
+    ],
+    "correctIndex": 2,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 496,
+    "question": "30 + 5 işleminin sonucu kaçtır?",
+    "options": [
+      "40",
+      "37",
+      "32",
+      "35"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 497,
+    "question": "37 + 8 işleminin sonucu kaçtır?",
+    "options": [
+      "50",
+      "45",
+      "42",
+      "47"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 498,
+    "question": "44 + 11 işleminin sonucu kaçtır?",
+    "options": [
+      "57",
+      "60",
+      "52",
+      "55"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 499,
+    "question": "51 + 14 işleminin sonucu kaçtır?",
+    "options": [
+      "67",
+      "65",
+      "62",
+      "70"
+    ],
+    "correctIndex": 1,
+    "category": "Matematik & Zeka"
+  },
+  {
+    "id": 500,
+    "question": "58 + 17 işleminin sonucu kaçtır?",
+    "options": [
+      "80",
+      "77",
+      "72",
+      "75"
+    ],
+    "correctIndex": 3,
+    "category": "Matematik & Zeka"
+  }
+]
